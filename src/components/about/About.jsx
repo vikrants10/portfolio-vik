@@ -37,7 +37,7 @@ const about = () => {
           </div>
           <p>
           Hello, I am Vikrant Kumar Singh,
-          Currently pursuing my MSC in Computer Science from Kalinga University, I am a hardworking individual looking for a challenging position 
+          Currently pursuing my Master of Computer Application, I am a hardworking individual looking for a challenging position 
           where I can showcase my skills and contribute to the growth of the organization.
           </p>
           <a href="#contact" className='btn btn-primary'> Lets Talk </a>
