@@ -18,8 +18,8 @@ import 'swiper/css/scrollbar';
 const data = [
   {
     avatar:AVTR1,
-    name:'Internship - Varcon Technololgy Pvt Ltd.',
-    review:'Interned as a Fullstack developer in Bengaluru for 4 weeks'
+    name:'Internship - Forage IT.',
+    review:'Interned as a React developer'
   },
   // {
   //   avatar:AVTR2,
