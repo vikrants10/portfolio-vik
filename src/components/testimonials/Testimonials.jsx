@@ -1,9 +1,9 @@
 import React from 'react'
 import './testimonials.css'
 import AVTR1 from '../../assets/avatar1.jpeg'
-import AVTR2 from '../../assets/avatar2.jpeg'
-import AVTR3 from '../../assets/avatar3.jpg'
-import AVTR4 from '../../assets/avatar4.jpeg'
+// import AVTR2 from '../../assets/avatar2.jpeg'
+// import AVTR3 from '../../assets/avatar3.jpg'
+// import AVTR4 from '../../assets/avatar4.jpeg'
 // import Swiper core and required modules
 import {  Navigation, Pagination, Scrollbar, A11y} from 'swiper/modules';
 
@@ -21,21 +21,21 @@ const data = [
     name:'Internship - Varcon Technololgy Pvt Ltd.',
     review:'Interned as a Fullstack developer in Bengaluru for 4 weeks'
   },
-  {
-    avatar:AVTR2,
-    name:'Internship - Emerxte Pvt Ltd.',
-    review:'Worked as a intern on a project based on Internet Of Things(IOT) in Bengaluru for 4 weeks'
-  },
-  {
-    avatar:AVTR3,
-    name:'Seminars - Problem Solving and Entrepreneurship ',
-    review:'Attended seminar on problem solving and entrepreneur ship held at CMRIT'
-  },
-  {
-    avatar:AVTR4,
-    name:'Seminars - Patent and Drafting',
-    review:'Attended seminar on patent and drafting held at CMRIT'
-  }
+  // {
+  //   avatar:AVTR2,
+  //   name:'Internship - Emerxte Pvt Ltd.',
+  //   review:'Worked as a intern on a project based on Internet Of Things(IOT) in Bengaluru for 4 weeks'
+  // },
+  // {
+  //   avatar:AVTR3,
+  //   name:'Seminars - Problem Solving and Entrepreneurship ',
+  //   review:'Attended seminar on problem solving and entrepreneur ship held at CMRIT'
+  // },
+  // {
+  //   avatar:AVTR4,
+  //   name:'Seminars - Patent and Drafting',
+  //   review:'Attended seminar on patent and drafting held at CMRIT'
+  // }
 ]
 const Testimonials = () => {
   return (
